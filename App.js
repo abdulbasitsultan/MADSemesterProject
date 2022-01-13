@@ -12,8 +12,6 @@ import { firebaseConfig } from './config';
 
 const Stack = createStackNavigator();
 
-componentWillmount
-
 const App = () => {
   return (
     <NavigationContainer>
